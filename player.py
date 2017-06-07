@@ -27,9 +27,7 @@ music = [
     { "sw": [1, 0, 1, 0], "song": 'Hoppe, hoppe Reiter.mp3' },
     { "sw": [1, 1, 0, 0], "song": 'Patent Ochsner - Für immer uf di.mp3' },
     { "sw": [0, 1, 1, 1], "song": 'Farbenfrohe Lieder.mp3' },
-    { "sw": [1, 0, 1, 1], "song": 'Patent Ochsner - Guet Nacht, Elisabeth.mp3' },
-    { "sw": [1, 1, 0, 1], "song": '' },
-    { "sw": [1, 1, 1, 0], "song": '' }
+    { "sw": [1, 0, 1, 1], "song": 'Patent Ochsner - Guet Nacht, Elisabeth.mp3' }
 ]
 
 def trigger( states, levels ):
